@@ -1,0 +1,13 @@
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\gayrimenkul\gayrimenkul\bin\Debug\gayrimenkul.exe.config
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\gayrimenkul\gayrimenkul\bin\Debug\gayrimenkul.exe
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\gayrimenkul\gayrimenkul\bin\Debug\gayrimenkul.pdb
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\gayrimenkul\gayrimenkul\obj\Debug\gayrimenkul.csproj.AssemblyReference.cache
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\gayrimenkul\gayrimenkul\obj\Debug\gayrimenkul.gayrimenkul.resources
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\gayrimenkul\gayrimenkul\obj\Debug\gayrimenkul.Properties.Resources.resources
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\gayrimenkul\gayrimenkul\obj\Debug\gayrimenkul.csproj.GenerateResource.cache
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\gayrimenkul\gayrimenkul\obj\Debug\gayrimenkul.csproj.CoreCompileInputs.cache
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\gayrimenkul\gayrimenkul\obj\Debug\gayrimenkul.exe
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\gayrimenkul\gayrimenkul\obj\Debug\gayrimenkul.pdb
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\gayrimenkul\gayrimenkul\obj\Debug\gayrimenkul.siteform.resources
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\gayrimenkul\gayrimenkul\obj\Debug\gayrimenkul.aliciform.resources
+C:\Users\Yıldız\Desktop\Masaüstü\Notlar\Projeler\csharp\gayrimenkul\gayrimenkul\obj\Debug\gayrimenkul.saticiform.resources
